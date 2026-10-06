@@ -1,0 +1,7 @@
+body{
+    background-color: aqua;
+}
+#recomendaciones{
+    display: flex;
+    flex-direction: row;
+}
